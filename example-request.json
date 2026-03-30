@@ -25,7 +25,9 @@
           "instruct": [
             "5",
             0
-          ]
+          ],
+          "speaker": "default",
+          "language": "en"
         },
         "class_type": "Qwen3TTSCustomVoice",
         "_meta": {
@@ -34,7 +36,7 @@
       },
       "4": {
         "inputs": {
-          "value": "I understand you want me to be your personal assistant and complete tasks using the available tools. However, I need more specific information about what task you'd like me to perform.\n\nCurrently, I have access to Google Sheets tools that allow me to:\n1. Get row(s) from a sheet\n2. Update a row in a sheet"
+          "value": "I understand you want me to be your personal assistant and complete tasks using the available tools. However, I need more specific information."
         },
         "class_type": "PrimitiveStringMultiline",
         "_meta": {
